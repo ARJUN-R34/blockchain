@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------
 
-### Learn Blockchain...
+### Learn Blockchain.
 
 - [The Decentralized mindset](https://steemit.com/steemit/@sflaherty/the-decentralized-mind-breaking-the-centralized-mindset-to-achieve-true-freedom)
 - [Blockchain for newbies !!](https://medium.com/@arjunism_/blockchain-for-newbies-8db91b1e946)
@@ -36,3 +36,10 @@
 - [What are the main DeFi cryptocurrencies ?](https://medium.com/@changenow_io/what-are-the-main-defi-cryptocurrencies-a734a35b727)
 - [Is DeFi a breakthrough for the Blockchain industry](https://hackernoon.com/is-defi-a-breakthrough-for-the-blockchain-industry-bu4m3uv3)
 - [Could DeFi Be The Financial Revolution That Bitcoin Promised ?](https://hackernoon.com/could-defi-be-the-financial-revolution-that-bitcoin-promised-nd1p3xtb)
+
+
+### Learn Blockchain Development.
+coming soon...
+
+### Some Interesting Projects.
+coming soon...
