@@ -30,7 +30,7 @@
 - [Cryptocurrencies are money & not equity](https://tokeneconomy.co/cryptocurrencies-are-money-not-equity-30ff8d0491bb)
 - [An overview or cryptocurrencies for savvy investors](https://medium.com/hackernoon/all-you-need-to-know-about-cryptocurrencies-an-overview-for-the-savvy-investor-bdc035b14982)
 - [Overview of dApp development](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c)
-- [Blockchain forking](https://medium.com/pcmag-access/why-blockchains-fork-a-tale-of-two-cryptocurrencies-67ebf561ca9c){:target="_blank"}
+- [Blockchain forking](https://medium.com/pcmag-access/why-blockchains-fork-a-tale-of-two-cryptocurrencies-67ebf561ca9c)
 - [The whys, whats, wheres and hows of DeFi](https://hackernoon.com/defi-the-whys-whats-wheres-and-hows-of-decentralized-finance-7l3n3xx3)
 - [Beginner's guide to DeFi](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)
 - [What are the main DeFi cryptocurrencies ?](https://medium.com/@changenow_io/what-are-the-main-defi-cryptocurrencies-a734a35b727)
