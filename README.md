@@ -15,6 +15,7 @@
 ### Learn Blockchain.
 
 - [The Decentralized mindset](https://steemit.com/steemit/@sflaherty/the-decentralized-mind-breaking-the-centralized-mindset-to-achieve-true-freedom){:target="_blank" rel="noopener"}
+- <a href="https://steemit.com/steemit/@sflaherty/the-decentralized-mind-breaking-the-centralized-mindset-to-achieve-true-freedom" target="_blank">The Decentralized mindset</a>
 - [Blockchain for newbies !!](https://medium.com/@arjunism_/blockchain-for-newbies-8db91b1e946){:target="_blank"}
 - [How Blockchain Works](https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae){:target="_blank"}
 - [eli5 (Explain like I am 5), Understanding Blockchain](https://medium.com/@_sidharth_m_/beginners-guide-to-blockchain-explaining-it-to-a-5-years-old-772caac6ae97){:target="_blank"}
