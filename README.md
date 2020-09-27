@@ -37,12 +37,19 @@
 - [Is DeFi a breakthrough for the Blockchain industry](https://hackernoon.com/is-defi-a-breakthrough-for-the-blockchain-industry-bu4m3uv3)
 - [Could DeFi Be The Financial Revolution That Bitcoin Promised ?](https://hackernoon.com/could-defi-be-the-financial-revolution-that-bitcoin-promised-nd1p3xtb)
 
+-------------------------------------------------------------------------
 
 ### Learn Blockchain Development.
 coming soon...
 
+-------------------------------------------------------------------------
+
 ### Some Interesting Projects.
 coming soon...
 
+-------------------------------------------------------------------------
+
 ### Everything DeFi.
 coming soon...
+
+-------------------------------------------------------------------------
